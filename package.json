@@ -11,15 +11,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/zone-eu/zone-mta-template.git"
+        "url": "git+https://github.com/tinovn/zone-mta-template.git"
     },
     "keywords": [],
     "author": "Andris Reinman",
     "license": "EUPL-1.1+",
     "bugs": {
-        "url": "https://github.com/zone-eu/zone-mta-template/issues"
+        "url": "https://github.com/tinovn/zone-mta-template/issues"
     },
-    "homepage": "https://github.com/zone-eu/zone-mta-template#readme",
+    "homepage": "https://github.com/tinovn/zone-mta-template#readme",
     "dependencies": {
         "zone-mta": "3.10.0",
         "zonemta-avast": "1.0.0",
