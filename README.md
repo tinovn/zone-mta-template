@@ -1,6 +1,6 @@
 # zone-mta-template
 
-Skeleton application for [ZoneMTA](https://github.com/zone-eu/zone-mta) based SMTP servers.
+Skeleton application for [ZoneMTA](https://github.com/tinovn/zone-mta) based SMTP servers.
 
 ## What is this?
 
@@ -8,7 +8,7 @@ This is a skeleton application to run ZoneMTA based MTA/MSA servers. Download it
 
 ## What is ZoneMTA?
 
-[ZoneMTA](https://github.com/zone-eu/zone-mta) is a modern open source MTA/MSA server. You can use it as a SMTP smarthost or a MSA host, it is fast and scalable, you can send many millions of emails a day with it.
+[ZoneMTA](https://github.com/tinovn/zone-mta) is a modern open source MTA/MSA server. You can use it as a SMTP smarthost or a MSA host, it is fast and scalable, you can send many millions of emails a day with it.
 
 ZoneMTA also comes with features usually available only for commercial SMTP servers like Virtual MTAs (or "sending zones" in ZoneMTA speak), IP pooling and rotation, IP warm-up, IP blacklist detection and mitigation, clustered setup with a shared queue and so on. ZoneMTA is battle tested with more than 100 million successful deliveries from a single server.
 
@@ -30,7 +30,7 @@ It is also not meant to deliver marketing emails. You can obviously do it but th
 Fetch the ZoneMTA application template
 
 ```
-$ git clone git://github.com/zone-eu/zone-mta-template.git
+$ git clone git://github.com/tinovn/zone-mta-template.git
 $ cd zone-mta-template
 $ npm install eslint --save-dev
 $ npm init
